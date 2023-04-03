@@ -8,7 +8,7 @@ The code is provided as-is, and we do not provide any warranty or guarantee as t
 
 Please note that the code may contain third-party libraries or assets, which are subject to their own licenses and terms of use. Please review these licenses and terms of use before using any third-party libraries or assets.
 
-We do not provide any support or maintenance for the code. If you encounter any issues or have any questions, please refer to the documentation or seek help from online communities.
+I do not provide any support or maintenance for the code. If you encounter any issues or have any questions, please refer to the documentation or seek help from online communities.
 
 By accessing or using the files contained in this repository, you acknowledge that you have read and understood this README file and agree to be bound by its terms and conditions. You agree to indemnify and hold harmless us from any claims, damages, or losses arising from your use of the files.
 
