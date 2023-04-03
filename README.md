@@ -12,5 +12,5 @@ I do not provide any support or maintenance for the code. If you encounter any i
 
 By accessing or using the files contained in this repository, you acknowledge that you have read and understood this README file and agree to be bound by its terms and conditions. You agree to indemnify and hold harmless us from any claims, damages, or losses arising from your use of the files.
 
-If you have any questions or concerns about this README file or the code, please do not hesitate to contact us. Thank you for your understanding and cooperation.
+If you have any questions or concerns about this README file or the code, please do not hesitate to contact me. Thank you for your understanding and cooperation.
 
